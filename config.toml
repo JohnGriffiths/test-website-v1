@@ -1,4 +1,4 @@
-baseurl = "https://johngriffiths.github.io/test-website-v2" # brainmodes2025.org"
+baseurl = "https://johngriffiths.github.io/test-website-v1" # brainmodes2025.org"
 title = "Enabling Disaggregated Synthetic Intelligence"
 theme = "dimension"
 languageCode = "en-us"
