@@ -12,7 +12,7 @@ draft = false
   <div class="speaker-card" style="width: 200px; text-align: center;">
     <img src="images/employee_1.png" alt="CH" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <h3 style="margin: 1rem 0 0.5rem;">Dr. Chris Harris</h3>
-    <p style="margin: 0; font-size: 1rem;">Found, CEO, CTO<br><span style="color: #888;"></span></p>
+    <p style="margin: 0; font-size: 1rem;">Founder, CEO, CTO<br><span style="color: #888;"></span></p>
   </div>
 </div>
 
