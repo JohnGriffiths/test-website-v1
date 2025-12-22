@@ -1,11 +1,11 @@
 +++
-title = "About"
+title = "Team"
 weight = 20
 draft = false
 +++
 
 
-## Team
+## Meet the EmBrained Team
 
 <div align="center">
   <div class="speaker-card" style="width: 200px; text-align: center;">
