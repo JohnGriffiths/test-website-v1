@@ -1,7 +1,7 @@
 +++
 title = "About"
-weight = 5
-draft = true
+weight = 1
+draft = false
 +++
 
 <h3 class="major">Hugo shortcodes in theme</h3>
