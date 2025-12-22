@@ -1,11 +1,20 @@
 ---
-title: "BrainModes 2025"
-title_lines:
-  - "BrainModes 2025"
-  - "8-10 October"
-  - "Toronto, Canada"
+title: "EmBrained, LLC."
 description: |  
-  ***An international meeting on theoretical neuroscience and macro-scale brain organization.*** 
-    
-  **8th-10th OCTOBER |  TORONTO, CANADA**
+  ***Operationalizing Disaggregated Synthetic Intelligence***  
 ---
+
+[[params.social]]
+    icon = "fa-github"
+    link = "https://github.com/your-username"
+    label = "GitHub"
+
+[[params.social]]
+    icon = "fa-twitter"
+    link = "https://twitter.com/your-username"
+    label = "Twitter"
+
+[[params.social]]
+    icon = "fa-envelope-o"
+    link = "mailto:you@example.com"
+    label = "Email"
