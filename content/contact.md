@@ -1,9 +1,10 @@
 +++
-title = "Contact Us"
+title = "Contact"
 weight = 60
-menuname = "Contact 2"
 draft = false
 +++
+
+Leave a message here and we will get back to you soon!
 
 <form id="contactform" method="post" action="https://formspree.io/insert.your@mail.adress">
 	<div class="field half first">
