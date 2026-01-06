@@ -19,19 +19,20 @@ draft = false
     flex-direction: row-reverse;
   }
   .eco-image {
-    flex: 1;
+    flex: 1.5; /* Increased from 1 to 1.5 to make images larger */
     display: flex;
     justify-content: center;
     align-items: center;
   }
   .eco-image img {
+    width: 100%; /* Ensure it takes available space */
     max-width: 100%;
     border-radius: 4px;
     border: 1px solid rgba(255, 255, 255, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
   }
   .eco-image img:hover {
-    transform: scale(1.02);
+    transform: scale(1.05); /* Slight zoom on hover */
     box-shadow: 0 0 20px rgba(188, 19, 254, 0.4); /* Neon Purple Glow */
     border-color: #bc13fe;
   }
@@ -68,7 +69,7 @@ draft = false
   <!-- NIMBAR: Image Left -->
   <div class="eco-row">
     <div class="eco-image">
-      <img src="images/nimbar_sketch.png" alt="Nimbar Software Interface">
+      <img src="images/nimbar_sketch-rmbg.png" alt="Nimbar Software Interface">
     </div>
     <div class="eco-text">
       <h4>NIMBAR</h4>
@@ -79,7 +80,7 @@ draft = false
   <!-- PLEXUS: Image Right -->
   <div class="eco-row reverse">
     <div class="eco-image">
-      <img src="images/plexus_sketch.png" alt="Plexus Hardware Device">
+      <img src="images/plexus_sketch-rmbg.png" alt="Plexus Hardware Device">
     </div>
     <div class="eco-text">
       <h4>PLEXUS</h4>
@@ -96,7 +97,7 @@ draft = false
   <!-- CARTESO: Image Left -->
   <div class="eco-row">
     <div class="eco-image">
-      <img src="images/carteso_sketch.png" alt="Carteso Tracking Module">
+      <img src="images/carteso_sketch-rmbg.png" alt="Carteso Tracking Module">
     </div>
     <div class="eco-text">
       <h4>CARTESO</h4>
