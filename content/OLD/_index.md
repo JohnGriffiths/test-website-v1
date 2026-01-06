@@ -137,7 +137,7 @@ description: |
 
     <div class="brand-section">
       <span class="brand-title">EMBRAINED, LLC</span>
-      <span class="tagline"> Disaggregated Embodied Intelligence</span>
+      <span class="tagline">Operationalizing Disaggregated Synthetic Intelligence</span>
     </div>
   </div>
 ---
