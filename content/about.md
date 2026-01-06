@@ -5,7 +5,26 @@ draft = false
 +++
 
 
-<span class="image main"><img src="images/family_sketch.png" alt="" /></span>
+<style>
+.about-image-container {
+    display: block;
+    margin-bottom: 2rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 4px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.about-image-container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 40px rgba(188, 19, 254, 0.2);
+    border-color: #bc13fe;
+}
+.about-image-container img {
+    border-radius: 4px;
+    display: block;
+    width: 100%;
+}
+</style>
+<span class="image main about-image-container"><img src="images/family_sketch.png" alt="" /></span>
 
 ### TEAM
 
